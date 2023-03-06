@@ -134,6 +134,9 @@ var Server = /** @class */ (function () {
         this.app.use(Auth_1["default"]);
         // Extra endpints (catch all, information, and so)
         this.app
+            .get('/?', function (request, response) {
+            response.render('index');
+        })
             .get('/info', function (request, response) {
             response.render('info', {
                 platform: process.platform,

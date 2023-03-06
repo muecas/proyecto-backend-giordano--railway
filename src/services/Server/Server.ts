@@ -133,6 +133,9 @@ class Server {
 		
 		// Extra endpints (catch all, information, and so)
 		this.app
+			.get('/?', (request: Request, response: Response) => {
+				response.render('index');
+			})
 			.get('/info', (request: Request, response: Response) => {
 				response.render('info', {
 					platform  : process.platform,
