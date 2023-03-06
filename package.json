@@ -4,11 +4,11 @@
   "description": "",
   "main": "app.ts",
   "scripts": {
-    "start": "ts-node app.ts"
+    "start": "npm app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muecas/proyecto-backend-giordano.git"
+    "url": "git+https://github.com/muecas/proyecto-backend-giordano--railway"
   },
   "author": {
     "name": "Luciano Giordano",
@@ -17,9 +17,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/muecas/proyecto-backend-giordano/issues"
+    "url": "https://github.com/muecas/proyecto-backend-giordano--railway/issues"
   },
-  "homepage": "https://github.com/muecas/proyecto-backend-giordano#readme",
+  "homepage": "https://github.com/muecas/proyecto-backend-giordano--railway#readme",
   "dependencies": {
     "@types/bcrypt": "^5.0.0",
     "@types/compression": "^1.7.2",
