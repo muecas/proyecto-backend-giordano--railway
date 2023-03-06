@@ -1,0 +1,40 @@
+{"level":"warn","message":"Ruta no encontrada: /informacion"}
+{"level":"warn","message":"Ruta no encontrada: /ws"}
+{"level":"warn","message":"Ruta no encontrada: /socket.io/socket.io.js"}
+{"level":"warn","message":"Ruta no encontrada: /scripts/common.js"}
+{"level":"warn","message":"Ruta no encontrada: /scripts/common.js"}
+{"level":"warn","message":"Ruta no encontrada: /socket.io/socket.io.js"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /login"}
+{"level":"warn","message":"Intento de login de usuario fallido (email: luciano@crudomedia.com"}
+{"level":"warn","message":"Intento de login de usuario fallido (email: luciano@crudomedia.com"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /logo192.png"}
+{"level":"warn","message":"Ruta no encontrada: /static/media/PxGrotesk-Bold.7953c7ea3ba32b7c93be.woff"}
+{"level":"warn","message":"Ruta no encontrada: /static/media/planorbe.e938539e12357ca54025.woff"}
+{"level":"warn","message":"Ruta no encontrada: /static/media/PxGrotesk-Bold.b4e1cf6d8e8cd52daf5f.ttf"}
+{"level":"warn","message":"Ruta no encontrada: /static/media/planorbe.3dd8f5a2e5851c332870.ttf"}
+{"level":"warn","message":"Ruta no encontrada: /"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /favicon.ico"}
+{"level":"warn","message":"Ruta no encontrada: /api/products/6405dd4888315b6c1e96f396"}
+{"level":"warn","message":"Ruta no encontrada: /api/products/6405dd4888315b6c1e96f396"}
+{"level":"warn","message":"Ruta no encontrada: /api/"}
+{"level":"warn","message":"Ruta de API no implementada: /api/que"}
+{"level":"warn","message":"Ruta de API no implementada: /api/"}
+{"level":"warn","message":"Ruta de API no implementada: /api/jsdhfk"}
+{"level":"warn","message":"Ruta no encontrada: /hola"}
+{"level":"warn","message":"Ruta no encontrada: /"}
+{"level":"warn","message":"Ruta no encontrada: /loigin"}
+{"level":"warn","message":"Intento de autorización de usuario por API fallido (email: luciano@crudomedia.com"}
+{"level":"warn","message":"Ruta de API no implementada: /api/carrito"}
+{"level":"warn","message":"Ruta no encontrada: /api/carrito/6406052fb3581030d79dd49c"}
+{"level":"warn","message":"Ruta no encontrada: /api/carrito/6406052fb3581030d79dd49c"}
+{"level":"warn","message":"Ruta no encontrada: /api/orders/640605afb3581030d79dd49d"}
+{"level":"error","message":"Ocurrió un error al intentar cargar el carro: TypeError: this.validateCart is not a function"}

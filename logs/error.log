@@ -1,0 +1,1 @@
+{"level":"error","message":"Ocurrió un error al intentar cargar el carro: TypeError: this.validateCart is not a function"}
